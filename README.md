@@ -10,4 +10,4 @@ Actualmente me encuentro cursando la Tecnicatura en Redes Informaticas...
 ..
 .
 
-![Un perro]("39978_1495311096643_1429526_n.jpg")
+![Un perro](39978_1495311096643_1429526_n.jpg)
